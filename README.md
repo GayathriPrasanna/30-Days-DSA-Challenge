@@ -12,9 +12,9 @@
 
 Every day includes:
 🔹3 LeetCode problems (Easy / Medium / Hard mix).<br>
-🔹Code solutions in Java.
-🔹 Problem links.
-🔹Key learning notes and syntax used.
+🔹Code solutions in Java.<br>
+🔹 Problem links.<br>
+🔹Key learning notes and syntax used.<br>
 
 ---
 
@@ -32,44 +32,44 @@ Every day includes:
 ---
 ## 📝 Notes:
 
-### 🔹 Question 1: Add Two Integers – LeetCode 2235
+### 🔹 Question 1: Add Two Integers – LeetCode 2235 <br>
 
-🧠 **Key Points**:
-✅ Simple addition problem.
-✅ No loops or conditionals required.
-✅ Useful for revising method structure.
+🧠 **Key Points**:<br>
+✅ Simple addition problem.<br>
+✅ No loops or conditionals required.<br>
+✅ Useful for revising method structure.<br>
 
-🧾 **Syntax**:
-java:
-return num1 + num2;
+🧾 **Syntax**:<br>
+java:<br>
+return num1 + num2;<br>
 
 
-### 🔹 Question 2: Concatenation of Array – LeetCode 1929
+### 🔹 Question 2: Concatenation of Array – LeetCode 1929<br>
 
-🧠 **Key Points**:
+🧠 **Key Points**:<br>
 
-✅Create new array of size 2 * n.
-✅Use loop to copy elements twice.
-✅Understand array indexing.
+✅Create new array of size 2 * n.<br>
+✅Use loop to copy elements twice.<br>
+✅Understand array indexing.<br>
 
-🧾 **Syntax**:
+🧾 **Syntax**:<br>
 
-int[] ans = new int[2 * nums.length];
-ans[i] = nums[i];
-ans[i + nums.length] = nums[i];
+int[] ans = new int[2 * nums.length];<br>
+ans[i] = nums[i];<br>
+ans[i + nums.length] = nums[i];<br>
 
-### 🔹 Question 3: Move Zeroes – LeetCode 283
+### 🔹 Question 3: Move Zeroes – LeetCode 283<br>
 
-🧠 **Key Points**:
+🧠 **Key Points**:<br>
 
-✅Two-pointer approach.
-✅First loop: move non-zero elements to front.
-✅Second loop: fill rest with zeroes.
+✅Two-pointer approach.<br>
+✅First loop: move non-zero elements to front.<br>
+✅Second loop: fill rest with zeroes.<br>
 
-🧾 **Syntax**:
+🧾 **Syntax**:<br>
 
-if (num != 0) nums[index++] = num;
-while (index < nums.length) nums[index++] = 0;
+if (num != 0) nums[index++] = num;<br>
+while (index < nums.length) nums[index++] = 0;<br>
 
 ---
 ### 🚧 More days coming soon...
