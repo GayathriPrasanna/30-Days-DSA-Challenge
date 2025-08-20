@@ -1,2 +1,8 @@
-# 30-Days-DSA-Challenge
-My 30 days of solving DSA problems using Java
+# Day 1 - DSA Challenge
+
+## Problems:
+1. 
+2. 
+3. 
+
+> Solutions are written in Java.
