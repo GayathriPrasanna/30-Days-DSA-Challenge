@@ -1,4 +1,4 @@
-# 30 Days DSA Challenge 🚀
+# 30-Days-DSA-Challenge 🚀
 
 📚 Welcome to my **30 Days DSA Challenge** – where I'm solving **3 LeetCode problems per day** to strengthen my Data Structures & Algorithms skills.  <br>
 🎯 Goal: Build consistency, logic, and problem-solving skills in just **30 days**<br>
