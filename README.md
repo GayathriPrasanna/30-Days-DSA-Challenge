@@ -21,7 +21,7 @@ Every day includes:
 ## ✅ Day01 – Problems Solved:
 
 1. [Add Two Integers (LeetCode 2235)](https://leetcode.com/problems/add-two-integers/)  
-   🔗 [My Solution](#) ← *(update your GitHub file link here)*
+   🔗 [My Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/3d18c56e587acd95b0987b58e474133e446369bc/2058-concatenation-of-array/concatenation-of-array.java)
 
 2. [Concatenation of Array (LeetCode 1929)](https://leetcode.com/problems/concatenation-of-array/)  
    🔗 [My Solution](#)
