@@ -74,7 +74,7 @@ while (index < nums.length) nums[index++] = 0;<br>
 ---
 ---
 ### If you only want the questions, check this out. <br>
-## 🚀 15 Days DSA Challenge – Java + LeetCode <br>
+## 🚀 30 Days DSA Challenge – Java + LeetCode <br>
 ## ✅ Day01 – Problems Solved: <br>
 
 | S.No | Problem Name | LeetCode Link | My Solution |
