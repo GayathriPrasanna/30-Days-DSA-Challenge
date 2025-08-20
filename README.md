@@ -11,10 +11,10 @@
 ## 📅 Daily Breakdown
 
 Every day includes:
-🔹3 LeetCode problems (Easy / Medium / Hard mix)
-🔹Code solutions in Java
-🔹 Problem links
-🔹Key learning notes and syntax used
+🔹3 LeetCode problems (Easy / Medium / Hard mix).
+🔹Code solutions in Java.
+🔹 Problem links.
+🔹Key learning notes and syntax used.
 
 ---
 
