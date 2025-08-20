@@ -21,13 +21,12 @@ Every day includes:
 ## ✅ Day01 – Problems Solved:
 
 1. [Add Two Integers (LeetCode 2235)](https://leetcode.com/problems/add-two-integers/)  
+   🔗 [My Solution]()
+2. [Concatenation of Array (LeetCode 1929)](https://leetcode.com/problems/concatenation-of-array/)  
    🔗 [My Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/3d18c56e587acd95b0987b58e474133e446369bc/2058-concatenation-of-array/concatenation-of-array.java)
 
-2. [Concatenation of Array (LeetCode 1929)](https://leetcode.com/problems/concatenation-of-array/)  
-   🔗 [My Solution](#)
-
 3. [Move Zeroes (LeetCode 283)](https://leetcode.com/problems/move-zeroes/)  
-   🔗 [My Solution](#)
+   🔗 [My Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/4a62cb5afd3e71d2562934653645a43f440d142d/283-move-zeroes/move-zeroes.java)
 
 ---
 
