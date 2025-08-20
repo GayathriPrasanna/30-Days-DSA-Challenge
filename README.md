@@ -72,6 +72,18 @@ if (num != 0) nums[index++] = num;<br>
 while (index < nums.length) nums[index++] = 0;<br>
 
 ---
+---
+### If you only want the questions, check this out. <br>
+## 🚀 15 Days DSA Challenge – Java + LeetCode <br>
+## ✅ Day01 – Problems Solved: <br>
+
+| S.No | Problem Name | LeetCode Link | My Solution |
+|------|--------------|---------------|-------------|
+| 1 | Add Two Integers | [LeetCode 2235](https://leetcode.com/problems/add-two-integers/) | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/4e439217891eebbf023cb22eb142cb97f2d9bd17/2383-add-two-integers/add-two-integers.java) |
+| 2 | Concatenation of Array | [LeetCode 1929](https://leetcode.com/problems/concatenation-of-array/) | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/3d18c56e587acd95b0987b58e474133e446369bc/2058-concatenation-of-array/concatenation-of-array.java) |
+| 3 | Move Zeroes | [LeetCode 283](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/4a62cb5afd3e71d2562934653645a43f440d142d/283-move-zeroes/move-zeroes.java) |
+
+---
 ### 🚧 More days coming soon...
 ---
 
