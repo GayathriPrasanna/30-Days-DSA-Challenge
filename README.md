@@ -10,7 +10,7 @@
 
 ## 📅 Daily Breakdown <br>
 
-Every day includes:
+Every day includes: <br>
 🔹3 LeetCode problems (Easy / Medium / Hard mix).<br>
 🔹Code solutions in Java.<br>
 🔹 Problem links.<br>
