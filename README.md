@@ -1,4 +1,4 @@
-# 30-Days-DSA-Challenge 🚀
+# <u>30-Days-DSA-Challenge </u>🚀
 
 📚 Welcome to my **30 Days DSA Challenge** – where I'm solving **3 LeetCode problems per day** to strengthen my Data Structures & Algorithms skills.  <br>
 🎯 Goal: Build consistency, logic, and problem-solving skills in just **30 days**<br>
@@ -8,7 +8,7 @@
 
 ---
 
-## 📅 Daily Breakdown <br>
+## <u> 📅 Daily Breakdown</u> <br>
 
 Every day includes: <br>
 🔹3 LeetCode problems (Easy / Medium / Hard mix).<br>
@@ -18,7 +18,7 @@ Every day includes: <br>
 
 ---
 
-## ✅ Day01 – Problems Solved:
+## ✅<u> Day01 – Problems Solved:</u>
 
 1. [Add Two Integers (LeetCode 2235)](https://leetcode.com/problems/add-two-integers/)  
    🔗 [My Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/4e439217891eebbf023cb22eb142cb97f2d9bd17/2383-add-two-integers/add-two-integers.java)
@@ -30,43 +30,43 @@ Every day includes: <br>
    🔗 [My Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/4a62cb5afd3e71d2562934653645a43f440d142d/283-move-zeroes/move-zeroes.java)
 
 ---
-## 📝 Notes:
+## 📝<u> Notes</u>:
 
-### 🔹 Question 1: Add Two Integers – LeetCode 2235 <br>
+### 🔹Question 1: Add Two Integers – LeetCode 2235 </u> <br>
 
-🧠 **Key Points**:<br>
+🧠 **<u>Key Points</u>**:<br>
 ✅ Simple addition problem.<br>
 ✅ No loops or conditionals required.<br>
 ✅ Useful for revising method structure.<br>
 
-🧾 **Syntax**:<br>
+🧾 **<u>Syntax</u>**:<br>
 java:<br>
 return num1 + num2;<br>
 
 
-### 🔹 Question 2: Concatenation of Array – LeetCode 1929<br>
+### <u>🔹 Question 2: Concatenation of Array – LeetCode 1929</u> <br>
 
-🧠 **Key Points**:<br>
+🧠  <u> **Key Points** </u> :<br>
 
 ✅Create new array of size 2 * n.<br>
 ✅Use loop to copy elements twice.<br>
 ✅Understand array indexing.<br>
 
-🧾 **Syntax**:<br>
+🧾 <u> ** **Syntax** </u> :<br>
 
 int[] ans = new int[2 * nums.length];<br>
 ans[i] = nums[i];<br>
 ans[i + nums.length] = nums[i];<br>
 
-### 🔹 Question 3: Move Zeroes – LeetCode 283<br>
+###  <u> 🔹 Question 3: Move Zeroes – LeetCode 283 </u> <br>
 
-🧠 **Key Points**:<br>
+🧠 <u>  **Key Points** </u> :<br>
 
 ✅Two-pointer approach.<br>
 ✅First loop: move non-zero elements to front.<br>
 ✅Second loop: fill rest with zeroes.<br>
 
-🧾 **Syntax**:<br>
+🧾  <u> **Syntax** </u> :<br>
 
 if (num != 0) nums[index++] = num;<br>
 while (index < nums.length) nums[index++] = 0;<br>
