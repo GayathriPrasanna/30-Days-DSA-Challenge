@@ -14,7 +14,6 @@ Every day includes: <br>
 🔹3 LeetCode problems (Easy / Medium / Hard mix).<br>
 🔹Code solutions in Java.<br>
 🔹 Problem links.<br>
-🔹Key learning notes and syntax used.<br>
 
 ---
 
@@ -30,58 +29,34 @@ Every day includes: <br>
    🔗 [My Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/4a62cb5afd3e71d2562934653645a43f440d142d/283-move-zeroes/move-zeroes.java)
 
 ---
-## 📝<u> Notes</u>:
-
-### 🔹Question 1: Add Two Integers – LeetCode 2235 </u> <br>
-
-🧠 **<u>Key Points</u>**:<br>
-✅ Simple addition problem.<br>
-✅ No loops or conditionals required.<br>
-✅ Useful for revising method structure.<br>
-
-🧾 **<u>Syntax</u>**:<br>
-java:<br>
-return num1 + num2;<br>
-
-
-### <u>🔹 Question 2: Concatenation of Array – LeetCode 1929</u> <br>
-
-🧠  <u> **Key Points** </u> :<br>
-
-✅Create new array of size 2 * n.<br>
-✅Use loop to copy elements twice.<br>
-✅Understand array indexing.<br>
-
-🧾 <u> ** **Syntax** </u> :<br>
-
-int[] ans = new int[2 * nums.length];<br>
-ans[i] = nums[i];<br>
-ans[i + nums.length] = nums[i];<br>
-
-###  <u> 🔹 Question 3: Move Zeroes – LeetCode 283 </u> <br>
-
-🧠 <u>  **Key Points** </u> :<br>
-
-✅Two-pointer approach.<br>
-✅First loop: move non-zero elements to front.<br>
-✅Second loop: fill rest with zeroes.<br>
-
-🧾  <u> **Syntax** </u> :<br>
-
-if (num != 0) nums[index++] = num;<br>
-while (index < nums.length) nums[index++] = 0;<br>
-
 ---
+## ✅<u> Day02 – Problems Solved:</u>
+1. [Contains Duplicate (LeetCode 217)]( https://leetcode.com/problems/contains-duplicate/)  
+   🔗 [My Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/e5a9088df9582e1ebf111783ee714e603f690dd2/217-contains-duplicate/contains-duplicate.java)
+   
+3. [Missing Number (LeetCode 268)](https://leetcode.com/problems/missing-number/)  
+   🔗 [My Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/e5a9088df9582e1ebf111783ee714e603f690dd2/268-missing-number/missing-number.java)
+
+4. [First Unique Character in a String (LeetCode 387)](https://leetcode.com/problems/first-unique-character-in-a-string/)  
+   🔗 [My Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/e5a9088df9582e1ebf111783ee714e603f690dd2/387-first-unique-character-in-a-string/first-unique-character-in-a-string.java)
+
+
 ---
 ### If you only want the questions, check this out. <br>
 ## 🚀 30 Days DSA Challenge – Java + LeetCode <br>
 ## ✅ Day01 – Problems Solved: <br>
 
+---
 | S.No | Problem Name | LeetCode Link | My Solution |
 |------|--------------|---------------|-------------|
-| 1 | Add Two Integers | [LeetCode 2235](https://leetcode.com/problems/add-two-integers/) | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/4e439217891eebbf023cb22eb142cb97f2d9bd17/2383-add-two-integers/add-two-integers.java) |
+| 1 | Add Two Integers | [LeetCode 2235](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/4e439217891eebbf023cb22eb142cb97f2d9bd17/2383-add-two-integers/add-two-integers.java) |
 | 2 | Concatenation of Array | [LeetCode 1929](https://leetcode.com/problems/concatenation-of-array/) | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/3d18c56e587acd95b0987b58e474133e446369bc/2058-concatenation-of-array/concatenation-of-array.java) |
 | 3 | Move Zeroes | [LeetCode 283](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/4a62cb5afd3e71d2562934653645a43f440d142d/283-move-zeroes/move-zeroes.java) |
+| 4 | Contains Duplicate | [LeetCode 217](https://leetcode.com/problems/add-two-integers/) | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/e5a9088df9582e1ebf111783ee714e603f690dd2/217-contains-duplicate/contains-duplicate.java) |
+| 5 | Missing Number | [LeetCode 268](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/e5a9088df9582e1ebf111783ee714e603f690dd2/268-missing-number/missing-number.java) |
+| 6 | First Unique Character in a String  | [LeetCode 387](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/e5a9088df9582e1ebf111783ee714e603f690dd2/387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) |
+
+---
 
 ---
 ### 🚧 More days coming soon...
