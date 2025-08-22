@@ -55,6 +55,9 @@ Every day includes: <br>
 | 4    | Contains Duplicate                     | [LeetCode 217](https://leetcode.com/problems/contains-duplicate/)             | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/e5a9088df9582e1ebf111783ee714e603f690dd2/217-contains-duplicate/contains-duplicate.java) |
 | 5    | Missing Number                         | [LeetCode 268](https://leetcode.com/problems/missing-number/)                 | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/e5a9088df9582e1ebf111783ee714e603f690dd2/268-missing-number/missing-number.java) |
 | 6    | First Unique Character in a String     | [LeetCode 387](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/e5a9088df9582e1ebf111783ee714e603f690dd2/387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) |
+| 7    | Palindrome Number                      | [LeetCode 9](https://leetcode.com/problems/palindrome-number/)                | [Solution](#) |
+| 8    | Roman to Integer                       | [LeetCode 13](https://leetcode.com/problems/roman-to-integer/)                | [Solution](#) |
+| 9    | Length of Last Word                    | [LeetCode 58](https://leetcode.com/problems/length-of-last-word/)             | [Solution](#) |
 
 ---
 ### 🚧 More days coming soon...
