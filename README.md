@@ -40,7 +40,15 @@ Every day includes: <br>
 4. [First Unique Character in a String (LeetCode 387)](https://leetcode.com/problems/first-unique-character-in-a-string/)  
    🔗 [My Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/e5a9088df9582e1ebf111783ee714e603f690dd2/387-first-unique-character-in-a-string/first-unique-character-in-a-string.java)
 
+## ✅<u> Day03 – Problems Solved:</u>
+1. [Palindrome Number  (LeetCode 9)](https://leetcode.com/problems/palindrome-number/)  
+   🔗 [My Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/b9a8e94754958b94ca9e99c54ac4ab91f57e3f5a/9-palindrome-number/palindrome-number.java)
+   
+3. [Roman to Integer (LeetCode 13)](https://leetcode.com/problems/roman-to-integer/)  
+   🔗 [My Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/49f841cb849ca0ef17bffb899aad5161f0c96bfc/13-roman-to-integer/roman-to-integer.java)
 
+4. [Length of Last Word (LeetCode 58)](https://leetcode.com/problems/length-of-last-word/)  
+   🔗 [My Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/b9a8e94754958b94ca9e99c54ac4ab91f57e3f5a/58-length-of-last-word/length-of-last-word.java)
 ---
 ### If you only want the questions, check this out. <br>
 ## 🚀 30 Days DSA Challenge – Java + LeetCode <br>
@@ -55,9 +63,9 @@ Every day includes: <br>
 | 4    | Contains Duplicate                     | [LeetCode 217](https://leetcode.com/problems/contains-duplicate/)             | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/e5a9088df9582e1ebf111783ee714e603f690dd2/217-contains-duplicate/contains-duplicate.java) |
 | 5    | Missing Number                         | [LeetCode 268](https://leetcode.com/problems/missing-number/)                 | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/e5a9088df9582e1ebf111783ee714e603f690dd2/268-missing-number/missing-number.java) |
 | 6    | First Unique Character in a String     | [LeetCode 387](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/e5a9088df9582e1ebf111783ee714e603f690dd2/387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) |
-| 7    | Palindrome Number                      | [LeetCode 9](https://leetcode.com/problems/palindrome-number/)                | [Solution](#) |
-| 8    | Roman to Integer                       | [LeetCode 13](https://leetcode.com/problems/roman-to-integer/)                | [Solution](#) |
-| 9    | Length of Last Word                    | [LeetCode 58](https://leetcode.com/problems/length-of-last-word/)             | [Solution](#) |
+| 7    | Palindrome Number                      | [LeetCode 9](https://leetcode.com/problems/palindrome-number/)                     | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/b9a8e94754958b94ca9e99c54ac4ab91f57e3f5a/9-palindrome-number/palindrome-number.java) |
+| 8    | Roman to Integer                       | [LeetCode 13](https://leetcode.com/problems/roman-to-integer/)                     | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/49f841cb849ca0ef17bffb899aad5161f0c96bfc/13-roman-to-integer/roman-to-integer.java) |
+| 9    | Length of Last Word                    | [LeetCode 58](https://leetcode.com/problems/length-of-last-word/)                  | [Solution](https://github.com/GayathriPrasanna/30-Days-DSA-Challenge/blob/b9a8e94754958b94ca9e99c54ac4ab91f57e3f5a/58-length-of-last-word/length-of-last-word.java) |
 
 ---
 ### 🚧 More days coming soon...
