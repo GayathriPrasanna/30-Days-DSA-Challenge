@@ -1,23 +1,28 @@
 class Solution {
-    List<Long> allSums = new ArrayList<>();
+    long maxProd = 0;
+    long totalSum = 0;
 
     public int maxProduct(TreeNode root) {
-        long totalSum = calculateSubtreeSum(root);
+        totalSum = getTotalSum(root);
+        findMax(root);
         
-        long maxProd = 0;
-        for (long s : allSums) {
-            long currentProduct = s * (totalSum - s);
-            maxProd = Math.max(maxProd, currentProduct);
-        }
         return (int) (maxProd % 1000000007);
     }
-    private long calculateSubtreeSum(TreeNode node) {
+    private long getTotalSum(TreeNode node) {
         if (node == null) return 0;
+        return node.val + getTotalSum(node.left) + getTotalSum(node.right);
+    }
+
+    private long findMax(TreeNode node) {
+        if (node == null) return 0;
+
+        long currentSubtreeSum = node.val + findMax(node.left) + findMax(node.right); 
+        long currentProduct = currentSubtreeSum * (totalSum - currentSubtreeSum);
         
-        long currentSubtreeSum = node.val + calculateSubtreeSum(node.left) + calculateSubtreeSum(node.right);
-        
-        allSums.add(currentSubtreeSum);
-        
+        if (currentProduct > maxProd) {
+            maxProd = currentProduct;
+        }
+
         return currentSubtreeSum;
     }
 }
